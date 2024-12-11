@@ -21,7 +21,7 @@ var twoStrings = function (str1, str2) {
 };
 console.log(twoStrings('Ciao', 'Patricia').length);
 // 7) Cos'è un Type Union e come si scrive?
-//Il type union è l'unione di due tipo per una variabile. Si scrive con il simbolo |. Ad esempio, potrei voler assegnare a una variabile il type string e number, di modo che possa accettare tutti e due i tipi di dato che andrò a fornirle.
+//Il type union è l'unione di due tipi per una variabile. Si scrive con il simbolo |. Ad esempio, potrei voler assegnare a una variabile il type string e number, di modo che possa accettare tutti e due i tipi di dato che andrò a fornirle.
 // 8) Crea una variabile che possa contenere un numero, null o undefined.
 var crazyVar;
 // 10) Tipizza il seguente array di numeri nei due modi possibili:
